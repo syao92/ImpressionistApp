@@ -2,9 +2,9 @@
 
 CMSC 434 ImpressionistApp
 
-Hello!
+Hello! This app allows the user to create an impressionist drawing of a loaded image. Based on the pixel of the loaded image, we can obtain the color at that pixel and use it with different brushes to create a new variation of the image.
 
-My Impressionist project includes the features:
+My Impressionist project includes the following features:
 
 Changing Brush Types: Square, Circle, Line, Circle Splatter (Spray Paint). Note: Square/Circle brush change size based on velocity of movement. Circle splatter and line size is based on default size of 5.
 
