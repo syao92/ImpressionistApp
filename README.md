@@ -6,7 +6,7 @@ Hello!
 
 My Impressionist project includes the features:
 
-Changing Brush Types: Square, Circle, Line, Circle Splatter (Spray Paint) \n Note: Square/Circle brush change size based on velocity of movement. Circle splatter and line size is based on default size of 5.
+Changing Brush Types: Square, Circle, Line, Circle Splatter (Spray Paint). Note: Square/Circle brush change size based on velocity of movement. Circle splatter and line size is based on default size of 5.
 
 Download feature: Images you can download are based on links to images online in MainActivity and will be downloaded to Photo Gallery.
 
