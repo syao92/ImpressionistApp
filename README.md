@@ -1,6 +1,6 @@
 # ImpressionistApp
 
-CMSC 434 Impressionist
+CMSC 434 ImpressionistApp
 
 Hello!
 
